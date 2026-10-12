@@ -1,7 +1,7 @@
 # Georgios-Panteleimon Mylonas - CV
 
 * 📄 **[Download / View CV (PDF)](./CV%20Portofolio.pdf)**
-* 📝 **[View Markdown Version](./cv_georgios_mylonas.md)**
+* 📝 **[View Markdown Version](./CV%20Portofolio.md)**
 
 ---
 ### Contact & Profiles
