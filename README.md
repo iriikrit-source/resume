@@ -6,7 +6,7 @@
 ---
 
 ### 🎮 Featured Projects
-* **[Kitosaur (Unity / C#)](https://github.com/iriikrit-source/kitosaur)** — Desktop platformer featuring jump mechanics, environmental double-jumps, dynamic flying enemies, and standalone Windows builds via GitHub Releases.
+* **[Kitosaur (Unity / C#)](https://github.com/iriikrit-source/kitosaur-game)** — Desktop platformer featuring jump mechanics, environmental double-jumps, dynamic flying enemies, and standalone Windows builds via GitHub Releases.
 
 ---
 
